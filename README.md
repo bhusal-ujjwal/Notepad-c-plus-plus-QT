@@ -1,1 +1,2 @@
-Basic Notepad using C++ and QT
+# Basic Notepad
+Basic Notepad app using QT and C++.
